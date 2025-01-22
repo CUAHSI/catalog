@@ -56,7 +56,8 @@
     "query-input": [
       "required name=HS_RES_ID"
     ]
-  }   
+  }
+]   
 }
 ```
 
